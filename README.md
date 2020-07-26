@@ -1,2 +1,2 @@
-# snake_water_gun
-snake_water_gun
+# snake_water_gun_game
+snake_water_gun_game
